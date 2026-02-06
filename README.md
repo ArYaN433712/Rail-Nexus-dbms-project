@@ -1,2 +1,16 @@
-# Rail-Nexus-dbms-project
-it is a web based application designed for fulfilling the user requirements related to train tickets and managing the information related to that
+# RailNexus – Railway Reservation System
+
+## Tech Stack
+- PHP
+- MySQL
+- Bootstrap
+
+## Features
+- Train & station management
+- Ticket booking and payment
+- SQL joins & constraints
+
+## What I Learned
+- Database schema design
+- Foreign keys & normalization
+- Backend form handling
